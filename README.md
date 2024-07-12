@@ -1,3 +1,4 @@
+[![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://www.buymeacoffee.com/nediazla3)
 # Que son los hash y como generarles y verificarlos
 
 La integridad de los archivos es de suma importancia. A menudo, descargamos archivos desde Internet, ya sean programas, imágenes ISO, documentos, o cualquier otro tipo de datos. Pero, ¿Cómo podemos estar seguros de que los archivos que descargamos no se han corrompido durante su descarga?, ¿Cómo podemos estar seguros que los ficheros descargados no han sido comprometidos por un atacante? Aquí es donde entran en juego los hash. En este artículo, exploraremos qué son los hash, por qué son útiles y finalmente veremos como podemos crear y verificar un hash.
